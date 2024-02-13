@@ -1,0 +1,136 @@
+LDA Output:
+Topics for sentiment: strongly negative
+Topic 0:
+0.036*"flight" + 0.014*"airline" + 0.010*"plane" + 0.010*"time" + 0.009*"airport" + 0.009*"delayed" + 0.009*"hours" + 0.008*"hour" + 0.007*"experience" + 0.007*"passengers" + 0.006*"flights" + 0.006*"delay" + 0.006*"gate" + 0.006*"staff" + 0.005*"even" + 0.005*"pm" + 0.004*"airlines" + 0.004*"another" + 0.004*"first" + 0.004*"delays"
+Topic 1:
+0.012*"service" + 0.011*"flight" + 0.009*"airline" + 0.009*"bag" + 0.008*"seats" + 0.008*"customer" + 0.007*"never" + 0.007*"flights" + 0.006*"airlines" + 0.006*"one" + 0.005*"line" + 0.005*"even" + 0.005*"told" + 0.005*"help" + 0.005*"ticket" + 0.005*"check" + 0.004*"said" + 0.004*"booked" + 0.004*"bags" + 0.004*"jetblue"
+Topic 2:
+0.016*"flight" + 0.011*"check" + 0.011*"airlines" + 0.008*"time" + 0.008*"service" + 0.008*"one" + 0.008*"bag" + 0.008*"american" + 0.007*"bags" + 0.005*"airline" + 0.005*"staff" + 0.005*"customer" + 0.005*"worst" + 0.004*"flights" + 0.004*"plane" + 0.004*"flying" + 0.004*"attendants" + 0.004*"checked" + 0.004*"delayed" + 0.004*"even"
+Topic 3:
+0.037*"flight" + 0.012*"seat" + 0.011*"seats" + 0.010*"first" + 0.008*"plane" + 0.008*"never" + 0.007*"class" + 0.007*"time" + 0.007*"airline" + 0.006*"experience" + 0.006*"hour" + 0.006*"fly" + 0.006*"one" + 0.006*"service" + 0.005*"paid" + 0.005*"another" + 0.005*"like" + 0.005*"hours" + 0.005*"rude" + 0.005*"worst"
+Topic 4:
+0.010*"airline" + 0.010*"flight" + 0.008*"airlines" + 0.007*"time" + 0.006*"spirit" + 0.006*"one" + 0.006*"flights" + 0.006*"pay" + 0.005*"bag" + 0.005*"gate" + 0.005*"fly" + 0.005*"plane" + 0.005*"southwest" + 0.004*"minutes" + 0.004*"delayed" + 0.004*"staff" + 0.004*"experience" + 0.004*"pass" + 0.004*"never" + 0.004*"bad"
+Topic 5:
+0.041*"flight" + 0.013*"hours" + 0.010*"airline" + 0.009*"time" + 0.009*"service" + 0.009*"customer" + 0.009*"delayed" + 0.008*"airport" + 0.008*"told" + 0.008*"fly" + 0.007*"day" + 0.007*"airlines" + 0.007*"flights" + 0.007*"another" + 0.007*"never" + 0.006*"one" + 0.006*"next" + 0.006*"even" + 0.006*"plane" + 0.005*"cancelled"
+
+Topics for sentiment: negative
+Topic 0:
+0.026*"flight" + 0.011*"spirit" + 0.009*"time" + 0.008*"service" + 0.007*"airline" + 0.007*"gate" + 0.007*"next" + 0.007*"one" + 0.006*"airlines" + 0.006*"app" + 0.005*"trip" + 0.005*"hal" + 0.005*"fly" + 0.005*"customer" + 0.005*"hours" + 0.004*"customers" + 0.004*"paid" + 0.004*"airport" + 0.004*"another" + 0.004*"sit"
+Topic 1:
+0.029*"flight" + 0.007*"time" + 0.007*"spirit" + 0.007*"people" + 0.007*"first" + 0.007*"flights" + 0.006*"airline" + 0.006*"airlines" + 0.006*"never" + 0.005*"service" + 0.005*"fly" + 0.005*"trip" + 0.005*"boarding" + 0.005*"airport" + 0.005*"plane" + 0.005*"told" + 0.005*"gate" + 0.005*"available" + 0.004*"one" + 0.004*"day"
+Topic 2:
+0.032*"flight" + 0.009*"plane" + 0.008*"time" + 0.008*"seat" + 0.006*"next" + 0.006*"one" + 0.005*"customer" + 0.005*"bag" + 0.005*"service" + 0.005*"hours" + 0.005*"boarding" + 0.005*"credit" + 0.005*"airport" + 0.005*"due" + 0.005*"board" + 0.005*"people" + 0.004*"arrived" + 0.004*"travel" + 0.004*"card" + 0.004*"away"
+Topic 3:
+0.013*"bags" + 0.013*"told" + 0.012*"flight" + 0.010*"manchester" + 0.009*"one" + 0.008*"bag" + 0.008*"time" + 0.008*"boston" + 0.007*"ticket" + 0.007*"hours" + 0.007*"staff" + 0.007*"flt" + 0.007*"downstairs" + 0.006*"cancelled" + 0.006*"line" + 0.006*"people" + 0.006*"luggage" + 0.004*"later" + 0.004*"said" + 0.004*"help"
+Topic 4:
+0.028*"flight" + 0.011*"gate" + 0.008*"hours" + 0.007*"one" + 0.007*"another" + 0.007*"time" + 0.006*"first" + 0.006*"told" + 0.006*"plane" + 0.006*"crew" + 0.005*"airlines" + 0.005*"say" + 0.005*"service" + 0.004*"ticket" + 0.004*"wait" + 0.004*"passengers" + 0.004*"pm" + 0.004*"waiting" + 0.004*"refund" + 0.004*"boarding"
+Topic 5:
+0.022*"flight" + 0.009*"seats" + 0.009*"ticket" + 0.008*"airlines" + 0.008*"told" + 0.008*"said" + 0.008*"plane" + 0.008*"premium" + 0.007*"airline" + 0.007*"alaska" + 0.007*"next" + 0.006*"credit" + 0.006*"flights" + 0.006*"asked" + 0.006*"time" + 0.005*"seat" + 0.005*"agent" + 0.004*"food" + 0.004*"travel" + 0.004*"gate"
+
+Topics for sentiment: neutral
+Topic 0:
+0.022*"flight" + 0.009*"gate" + 0.009*"told" + 0.009*"seats" + 0.008*"one" + 0.008*"people" + 0.007*"seat" + 0.006*"hour" + 0.006*"time" + 0.006*"boarding" + 0.006*"agent" + 0.005*"day" + 0.005*"due" + 0.005*"service" + 0.005*"plane" + 0.005*"sit" + 0.004*"another" + 0.004*"attendant" + 0.004*"row" + 0.004*"virgin"
+Topic 1:
+0.035*"flight" + 0.009*"airlines" + 0.009*"airport" + 0.008*"told" + 0.008*"time" + 0.007*"service" + 0.007*"said" + 0.006*"hours" + 0.006*"next" + 0.005*"american" + 0.005*"new" + 0.005*"baggage" + 0.005*"minutes" + 0.005*"fly" + 0.005*"customer" + 0.005*"gate" + 0.005*"day" + 0.004*"never" + 0.004*"pm" + 0.004*"flights"
+Topic 2:
+0.028*"flight" + 0.011*"gate" + 0.010*"time" + 0.009*"plane" + 0.007*"told" + 0.007*"boarding" + 0.006*"airport" + 0.006*"delayed" + 0.006*"asked" + 0.005*"minutes" + 0.005*"one" + 0.005*"delta" + 0.005*"luggage" + 0.005*"hour" + 0.005*"first" + 0.004*"said" + 0.004*"board" + 0.004*"ticket" + 0.004*"seats" + 0.004*"home"
+Topic 3:
+0.026*"flight" + 0.010*"time" + 0.007*"first" + 0.007*"agent" + 0.007*"said" + 0.006*"gate" + 0.006*"fly" + 0.006*"ticket" + 0.006*"line" + 0.006*"check" + 0.005*"flights" + 0.005*"airlines" + 0.005*"class" + 0.005*"told" + 0.005*"american" + 0.005*"new" + 0.005*"well" + 0.005*"minutes" + 0.004*"airline" + 0.004*"booked"
+Topic 4:
+0.028*"flight" + 0.010*"seat" + 0.008*"one" + 0.008*"delta" + 0.008*"fly" + 0.007*"seats" + 0.006*"first" + 0.006*"day" + 0.005*"people" + 0.005*"airline" + 0.005*"time" + 0.005*"class" + 0.005*"boarding" + 0.005*"plane" + 0.005*"never" + 0.005*"united" + 0.005*"service" + 0.004*"airport" + 0.004*"board" + 0.004*"told"
+Topic 5:
+0.015*"flights" + 0.011*"flight" + 0.009*"still" + 0.009*"southwest" + 0.008*"one" + 0.007*"phoenix" + 0.006*"luggage" + 0.006*"linked" + 0.006*"reno" + 0.006*"original" + 0.005*"checked" + 0.005*"denver" + 0.005*"know" + 0.005*"puerto" + 0.005*"changed" + 0.004*"jfk" + 0.004*"flying" + 0.004*"family" + 0.004*"weekend" + 0.004*"insisted"
+
+Topics for sentiment: positive
+Topic 0:
+0.032*"flight" + 0.013*"airlines" + 0.013*"arrived" + 0.010*"time" + 0.010*"minutes" + 0.010*"good" + 0.010*"hnl" + 0.007*"boarding" + 0.007*"everyone" + 0.007*"flights" + 0.007*"early" + 0.007*"cabin" + 0.007*"gate" + 0.007*"short" + 0.007*"extremely" + 0.007*"passengers" + 0.007*"able" + 0.007*"still" + 0.007*"fas" + 0.007*"hawaiian"
+Topic 1:
+0.012*"flight" + 0.009*"time" + 0.009*"service" + 0.009*"food" + 0.009*"quite" + 0.006*"experience" + 0.006*"united" + 0.006*"good" + 0.006*"entertainment" + 0.006*"ok" + 0.006*"person" + 0.006*"mediocre" + 0.006*"bag" + 0.006*"equipment" + 0.006*"helpful" + 0.006*"frontier" + 0.006*"aziza" + 0.003*"honolulu" + 0.003*"airport" + 0.003*"aircraft"
+Topic 2:
+0.033*"flight" + 0.010*"pretty" + 0.010*"rest" + 0.008*"service" + 0.008*"one" + 0.008*"comfortable" + 0.008*"early" + 0.008*"entertainment" + 0.008*"seats" + 0.008*"aa" + 0.008*"hour" + 0.008*"long" + 0.008*"front" + 0.008*"room" + 0.008*"line" + 0.006*"flights" + 0.006*"virgin" + 0.006*"really" + 0.006*"crew" + 0.006*"time"
+Topic 3:
+0.030*"flight" + 0.011*"next" + 0.009*"airport" + 0.009*"seat" + 0.009*"airlines" + 0.009*"fly" + 0.009*"line" + 0.009*"united" + 0.009*"weather" + 0.009*"standby" + 0.009*"customers" + 0.009*"bad" + 0.009*"spend" + 0.009*"travel" + 0.009*"offered" + 0.009*"crew" + 0.009*"full" + 0.007*"day" + 0.006*"class" + 0.006*"short"
+Topic 4:
+0.025*"flight" + 0.016*"minutes" + 0.012*"flights" + 0.012*"honolulu" + 0.009*"hawaiian" + 0.009*"gate" + 0.007*"around" + 0.007*"still" + 0.007*"airlines" + 0.007*"onboard" + 0.005*"seat" + 0.005*"really" + 0.005*"time" + 0.005*"service" + 0.005*"los" + 0.005*"aircraft" + 0.005*"attendants" + 0.005*"angeles" + 0.005*"onto" + 0.005*"great"
+Topic 5:
+0.018*"seat" + 0.014*"flight" + 0.014*"one" + 0.014*"attendant" + 0.011*"seats" + 0.011*"plane" + 0.011*"check" + 0.007*"flights" + 0.007*"made" + 0.007*"long" + 0.007*"took" + 0.007*"flying" + 0.007*"ask" + 0.007*"trip" + 0.007*"airport" + 0.007*"allowed" + 0.007*"passenger" + 0.007*"luggage" + 0.007*"exit" + 0.007*"window"
+
+Topics for sentiment: strongly positive
+Topic 0:
+0.024*"flight" + 0.010*"staff" + 0.009*"delta" + 0.008*"thank" + 0.008*"service" + 0.007*"said" + 0.006*"flying" + 0.006*"airline" + 0.005*"customer" + 0.005*"check" + 0.005*"virgin" + 0.004*"really" + 0.004*"headphones" + 0.004*"policy" + 0.004*"times" + 0.004*"last" + 0.004*"much" + 0.004*"attendants" + 0.004*"one" + 0.004*"better"
+Topic 1:
+0.018*"flight" + 0.009*"la" + 0.008*"economy" + 0.007*"food" + 0.007*"sydney" + 0.007*"good" + 0.006*"nice" + 0.006*"time" + 0.006*"great" + 0.006*"seat" + 0.005*"trip" + 0.004*"well" + 0.004*"one" + 0.004*"hour" + 0.004*"like" + 0.004*"premium" + 0.004*"enough" + 0.004*"customer" + 0.004*"attendants" + 0.004*"entertainment"
+Topic 2:
+0.016*"flight" + 0.011*"staff" + 0.008*"airlines" + 0.007*"food" + 0.007*"time" + 0.007*"class" + 0.007*"first" + 0.007*"san" + 0.006*"seat" + 0.006*"united" + 0.006*"service" + 0.005*"francisco" + 0.005*"new" + 0.005*"comfortable" + 0.005*"fly" + 0.005*"cabin" + 0.005*"friendly" + 0.005*"crew" + 0.004*"space" + 0.004*"next"
+Topic 3:
+0.031*"flight" + 0.014*"good" + 0.012*"time" + 0.011*"service" + 0.010*"crew" + 0.009*"experience" + 0.009*"fly" + 0.008*"cabin" + 0.008*"great" + 0.006*"airline" + 0.006*"first" + 0.006*"seats" + 0.006*"really" + 0.006*"food" + 0.005*"staff" + 0.005*"flights" + 0.005*"drinks" + 0.005*"comfortable" + 0.005*"one" + 0.005*"akasa"
+Topic 4:
+0.020*"flight" + 0.010*"time" + 0.008*"good" + 0.008*"crew" + 0.008*"air" + 0.007*"service" + 0.007*"virgin" + 0.007*"first" + 0.007*"america" + 0.006*"akasa" + 0.006*"seat" + 0.006*"paid" + 0.005*"great" + 0.005*"leg" + 0.005*"sfo" + 0.005*"ever" + 0.005*"cabin" + 0.004*"made" + 0.004*"check" + 0.004*"left"
+Topic 5:
+0.035*"flight" + 0.017*"time" + 0.014*"service" + 0.010*"good" + 0.009*"staff" + 0.008*"plane" + 0.008*"flying" + 0.007*"airlines" + 0.007*"first" + 0.007*"seats" + 0.007*"really" + 0.007*"crew" + 0.007*"experience" + 0.006*"arrived" + 0.006*"virgin" + 0.006*"comfortable" + 0.006*"america" + 0.006*"alaska" + 0.006*"minutes" + 0.006*"seat"
+
+Industry Analysis Report: 
+Summary of Overall Findings:
+
+The LDA analysis of the airline user reviews reveals several topics that are frequently discussed by passengers. These topics include flight delays, customer service, baggage handling, in-flight experience, and boarding processes. Positive reviews often highlight the crew's service, on-time performance, and comfortable seating. Negative reviews tend to focus on flight delays, poor customer service, and issues with baggage handling.
+
+Summary of Findings by Sentiment Cluster:
+
+1. Strongly Negative: Topics include flight delays, poor customer service, and baggage handling issues. Passengers express frustration with long wait times, lack of communication, and lost or delayed baggage.
+2. Negative: Reviews in this cluster mention flight delays, poor customer service, and issues with boarding processes. Passengers express dissatisfaction with long lines, confusion, and lack of organization.
+3. Neutral: Topics in this cluster include boarding processes, in-flight experience, and baggage handling. Reviews are generally factual and do not express strong positive or negative sentiment.
+4. Positive: Positive reviews focus on the crew's service, on-time performance, and comfortable seating. Passengers express satisfaction with the overall experience and appreciate the friendly and attentive staff.
+5. Strongly Positive: Topics in this cluster include exceptional customer service, comfortable seating, and enjoyable in-flight experience. Passengers express high levels of satisfaction and often mention specific crew members who provided excellent service.
+
+SWOT Analysis:
+
+Strengths:
+
+1. Strong positive sentiment around crew service and on-time performance.
+2. Comfortable seating and enjoyable in-flight experience.
+
+Weaknesses:
+
+1. Frequent complaints about flight delays and poor communication.
+2. Issues with baggage handling, including lost or delayed baggage.
+3. Negative sentiment around customer service and boarding processes.
+
+Opportunities:
+
+1. Improve communication around flight delays and provide more accurate and timely updates.
+2. Invest in staff training to improve customer service and boarding processes.
+3. Enhance baggage handling processes to reduce lost or delayed baggage.
+
+Threats:
+
+1. Increasing competition from low-cost carriers.
+2. Potential for negative publicity due to poor customer service or operational issues.
+3. Economic downturns or global events that may impact travel demand.
+
+Opportunities for Market Disruption:
+
+1. Offer a superior customer experience through investments in staff training, technology, and processes.
+2. Focus on niche markets, such as eco-friendly travel or luxury experiences.
+3. Leverage data analytics to optimize operations and improve efficiency.
+
+Blue Ocean Strategy:
+
+To create new market space, airlines should prioritize services that differentiate them from competitors and provide unique value propositions. Based on the LDA analysis, the following services should be prioritized:
+
+1. Prioritize: Exceptional customer service and communication.
+2. Reduce: Time spent on boarding processes and delays.
+3. Eliminate: Issues with baggage handling and lost or delayed baggage.
+4. Create: Unique experiences, such as in-flight entertainment or eco-friendly initiatives.
+
+Hypothesis Tests:
+
+1. H0: There is no difference in sentiment between reviews that mention flight delays and those that do not.
+   Ha: There is a significant difference in sentiment between reviews that mention flight delays and those that do not.
+2. H0: There is no difference in sentiment between reviews that mention customer service and those that do not.
+   Ha: There is a significant difference in sentiment between reviews that mention customer service and those that do not.
+3. H0: There is no difference in sentiment between reviews that mention baggage handling and those that do not.
+   Ha: There is a significant difference in sentiment between reviews that mention baggage handling and those that do not.
+
+Summary and Conclusion:
+
+The LDA analysis of airline user reviews reveals several key insights into the factors that drive customer sentiment. Positive reviews often highlight exceptional customer service and comfortable seating, while negative reviews focus on flight delays, poor customer service, and issues with baggage handling. To create new market space and differentiate themselves from competitors, airlines should prioritize services that provide unique value propositions and address common pain points. This may include investments in staff training, technology, and processes to improve customer service and communication. Additionally, airlines should consider opportunities for market disruption, such as focusing on niche markets or leveraging data analytics to optimize operations and improve efficiency. Finally, hypothesis tests can be conducted to validate these findings and inform strategic decision-making.
