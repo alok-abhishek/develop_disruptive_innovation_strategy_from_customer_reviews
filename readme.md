@@ -17,7 +17,7 @@ This repository houses a Python tool designed to process user reviews and produc
 ## How to use - Input and output file set up
 - **Setting up input file**: default input csv file path/directory is ../../eda/kaggle/data. The code creates a json file from csv in the same director and perform all the operations on json file.  
 - **Setting up output file**: default output folder where text file with industry report is created is ../../eda/kaggle/data/industry_report
-- **Setting up Kaggle and OpenAI API**: Rename the .env-example file to .env file and update it with your OpenAI and Kaggle API key.
+- **Setting up Kaggle and OpenAI API**: Rename the .env-example file to .env file and update it with your OpenAI, Mistral AI and Kaggle API key.
 - **Install required libraries**: use pip install -r requirements.txt to install required python packages to run the program.
 - **How to run**: After setting up API keys, execute openai_lda_post_processing.py and mistral_lda_post_processing.py to run the tool for OpenAI and Mistral LLM respectively.
 
