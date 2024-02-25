@@ -25,5 +25,3 @@ This repository houses a Python tool designed to process user reviews and produc
 - **Install required libraries**: use pip install -r requirements.txt to install required python packages to run the program.
 - **How to run**: After setting up API keys, execute openai_lda_post_processing.py and mistral_lda_post_processing.py to run the tool for OpenAI and Mistral LLM respectively.
 
-## Mode Details:
-
