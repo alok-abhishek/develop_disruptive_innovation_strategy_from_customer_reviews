@@ -16,12 +16,12 @@ This repository houses a Python tool designed to process user reviews and produc
 ## Features
 
 - **Sentiment Analysis**: Reads PDF files, with the option to exclude specific pages as provided by the user (references and some other pages towards the end of the report).
-- **Industry Report Generation**: A Summarizes the research paper by creating smaller chunks and then summarizing each chunk and then consolidating all the part summaries to create a final overall summary. The tool uses OpenAI's GPT 4 model and requires a paid OpenAI API key.
+- **Industry Report Generation**: A report containing strategic innovation ideas for industry is generated and saved in eda/kaggle/data/industry_report. The tool uses OpenAI's GPT 4 model and Mistral model both of which require a paid API key. But code can be modified to work with other open source models.
 
 ## How to use - Input and output file set up
 - **Setting up input file**: default input csv file path/directory is ../../eda/kaggle/data. The code creates a json file from csv in the same director and perform all the operations on json file.  
 - **Setting up output file**: default output folder where text file with industry report is created is ../../eda/kaggle/data/industry_report
-- **Setting up Kaggle and OpenAI API**: Rename the .env-example file to .env file and update it with your OpenAI, Mistral AI and Kaggle API key.
+- **Setting up Kaggle, Mistral, and OpenAI API**: Rename the .env-example file to .env file and update it with your OpenAI, Mistral AI and Kaggle API key.
 - **Install required libraries**: use pip install -r requirements.txt to install required python packages to run the program.
 - **How to run**: After setting up API keys, execute openai_lda_post_processing.py and mistral_lda_post_processing.py to run the tool for OpenAI and Mistral LLM respectively.
 
