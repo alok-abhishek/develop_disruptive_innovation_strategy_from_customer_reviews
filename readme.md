@@ -1,3 +1,7 @@
+# Detailed description
+- **Link to blog**: [Disrupting Industries with Data Science: Machine Learning as the Key to Disruptive Innovation](https://alokabhishek.com/product-management/disrupting-industries-with-data-science-machine-learning-as-the-key-to-disruptive-innovation/)
+- Develop actionable innovation strategies by harnessing the power of advanced machine learning techniques such as RoBERTa, BART, LLM, & LDA
+
 # Customer Reviews to Industry Analysis Report with innovation/disruption strategy generator Tool
 This repository houses a Python tool designed to process user reviews and product industry analysis report covering topics such as:
 1. Do sentiment analysis and create clusters of user reviews based on sentiment. 
@@ -22,4 +26,4 @@ This repository houses a Python tool designed to process user reviews and produc
 - **How to run**: After setting up API keys, execute openai_lda_post_processing.py and mistral_lda_post_processing.py to run the tool for OpenAI and Mistral LLM respectively.
 
 ## Mode Details:
-- **Link to blog**: upcoming
+
