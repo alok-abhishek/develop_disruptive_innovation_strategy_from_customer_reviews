@@ -14,7 +14,8 @@ MISTRAL_API_KEY = os.environ.get("MISTRAL_API_KEY")
 model_mistral_tiny = "mistral-tiny"  # Mistral-7B-v0.2
 model_mistral_small = "mistral-small"  # Mixtral-8X7B-v0.1
 model_mistral_medium = "mistral-medium"  # internal prototype model.
-model = model_mistral_medium
+model_mistral_large = "mistral-large-latest" # mistral-large-2407
+model = model_mistral_large
 client = MistralClient(api_key=MISTRAL_API_KEY)
 
 # input file:
@@ -26,8 +27,11 @@ input_file = os.path.join(base_path, input_filename)
 current_datetime = datetime.datetime.now()
 formatted_datetime = current_datetime.strftime("%Y%m%d_%H%M%S")
 base_output_path = "../../eda/kaggle/data/industry_report"
-output_filename = f"us_airline_industry_analysis_mistral_{formatted_datetime}.txt"
+output_filename = f"us_airline_industry_analysis_mistral_{formatted_datetime}.md"
 output_file = os.path.join(base_output_path, output_filename)
+
+lda_output_filename = f"us_airline_industry_analysis_lda_mistral_{formatted_datetime}.txt"
+lda_output_file = os.path.join(base_output_path, lda_output_filename)
 
 # Get prompt instruction
 prompt_augmentation_file = "prompt_instructions_fewshots.json"
@@ -74,7 +78,10 @@ generated_insights = mistral_generate_insights_from_cluster_lda(lda_output)
 print("Industry Analysis Report: \n", generated_insights)
 
 # Write the Industry Analysis Report to a text file
-with open(output_file, 'w') as file:
+
+with open(lda_output_file, 'w') as file:
     file.write("LDA Output: \n" + lda_output + "\n\n")
-    file.write("Industry Analysis Report: \n" + generated_insights)
+
+with open(output_file, 'w') as file:
+    file.write("### Industry Analysis Report: \n" + generated_insights)
 
